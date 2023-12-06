@@ -1,4 +1,4 @@
-# CONTROL-Heli
+# CONTROL | Heli
 It was supposed to be white hair for Jesse, but it evolved into an outfit and accessories.
 
 <img src="https://imgur.com/KusslNj.png" height="200"> <img src="https://imgur.com/9Z3qhCv.png" height="200"> <img src="https://imgur.com/WKWuEKq.png" height="200"> <img src="https://imgur.com/bYwSpP8.png" height="200"> <img src="https://imgur.com/jlwl978.png" height="200"> <img src="https://imgur.com/4ZiY7b5.png" height="200">
